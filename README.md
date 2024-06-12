@@ -1,6 +1,8 @@
 # Olá, sou @odudu1 👋
 
 ## 👀 Estou interessado em:
+- Computação Gráfica
+- Jogos Digitais
 - Desenvolvimento de software
 - Ciência de Dados
 
